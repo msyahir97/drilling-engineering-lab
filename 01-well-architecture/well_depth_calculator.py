@@ -8,7 +8,7 @@ well_name = "DE-001"
 
 vertical_md = 1000
 inclined_length = 600
-inclination = 30
+inclination = 60
 
 total_md = vertical_md + inclined_length
 
